@@ -6,6 +6,5 @@
 <body>
 <h1>Hello Worldおおおおおおおおおおおおおおおおおおおおtest!</h1>
 <h2>hihihihi</h2>
-  イエーガー
 </body>
 </html>
