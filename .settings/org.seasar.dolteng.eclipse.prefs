@@ -1,0 +1,8 @@
+DaoType=S2JDBC
+DefaultResourcePath=/gitEclipse/src/main/resources
+DefaultRootPackage=example
+DefaultSrcPath=/gitEclipse/src/main/java
+ServletPath=gitEclipse
+ViewType=SA-Struts
+WebContentsRoot=src/main/webapp
+eclipse.preferences.version=1
